@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wso2.af</groupId>
   <artifactId>man-bar2</artifactId>
-  <version>SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
   <name>man-bar2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
